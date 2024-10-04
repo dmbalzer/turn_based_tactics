@@ -1,0 +1,24 @@
+{ "columns":18,
+ "image":"tilemap_packed.png",
+ "imageheight":176,
+ "imagewidth":288,
+ "margin":0,
+ "name":"tilemap_packed",
+ "objectalignment":"topleft",
+ "spacing":0,
+ "tilecount":198,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tiles":[
+        {
+         "id":1,
+         "probability":0.0500000007450581
+        }, 
+        {
+         "id":2,
+         "probability":0.0500000007450581
+        }],
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}
